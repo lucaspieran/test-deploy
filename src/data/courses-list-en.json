@@ -1,0 +1,118 @@
+{
+  "courses": [
+    {
+      "course": "architecture",
+      "name": "Software Architecture",
+      "description": "We understand that organizations are facing the following challenges (3 axes):\n\nGenerating Digital Experiences is not enough, it is necessary to completely digitize the way we generate value, with accelerated development times, short cycles and continuous feedback, allowing the sustainable evolution of products.\n\nCompanies and startups need robustness and availability, beyond preventing outages, degradations or failures, a quick response to incidents is necessary.\n\nEntrepreneurship culture, incorporating technologies, methodologies and tools supported by technological architecture to achieve innovation together with evolution based on data science.\n\nSoftware Architecture becomes a core discipline to take charge of any project that proposes to solve complex problems through a technological solution and make it sustainable over time.\n\nFrom GoElevate, having trained more than 1000 Architects across the region, we have created a training based on industry best practices.\n\nWe want to provide these initial capabilities to future Software Architects as well as solidify the techniques of those who already practice them by giving them a methodological framework considering the current technological trends.",
+      "data": {
+        "live": "10 hours live with experts",
+        "time": "8 weeks",
+        "hours": "48 hours total",
+        "audio": "Spanish",
+        "downloadable_material": true,
+        "hands_on_activities": true,
+        "graduation_certificate": true
+      }
+    },
+    {
+      "course": "k8s",
+      "name": "K8s for Architects",
+      "description": "Kubernetes is the new Infrastructure paradigm that allows us to modernize solutions with the latest architecture styles and Devops operating models.\n\nThat is why from Elevate we have created this training with the objective of providing Architects the necessary tools to incorporate capabilities of the Cloud Native world and more specifically with the new standard called Kubernetes.\n\nWe focus on achieving a comprehensive training that covers all the issues that not only make the objects and peculiarities of Kubernetes but also an active participation in the \"end to end\" of Architecture decisions and how they impact the definition of Cluster to receive and process workloads.\n\nWe want to provide an E2E vision of Kubernetes to give Solution Architects all the advantages of this new paradigm.",
+      "data": {
+        "live": "10 hours live with experts",
+        "time": "8 weeks",
+        "hours": "48 hours total",
+        "audio": "Spanish",
+        "downloadable_material": true,
+        "hands_on_activities": true,
+        "graduation_certificate": true
+      }
+    },
+    {
+      "course": "api",
+      "name": "API as product",
+      "description": "We understand that organizations are facing the following challenges (3 Axes):\n\nConnecting applications is technically simple, doing it consistently, enabling efficiency in implementation and simplicity of solutions, is a challenge that those who know how to do it know it is a differential.\nIn a complex environment of collaboration between different actors from different industries, it is vital to think of APIs as products, providing third parties with internal differential capabilities, generating new revenue streams.\nEntrepreneurship culture, incorporating technologies, methodologies and tools supported by technological architecture to achieve innovation together with evolution based on data science.\n\nOne of the most complex issues in any IT project is the design of coordinated collaboration between the applications that are part of a solution, complying with attributes such as efficiency, scalability, consistency and simplicity of use, values that ensure the success of software implementations in highly complex ecosystems, and enables the leverage of APIs (as an integration mechanism) into an additional product, a new revenue stream to the organization.\n\nFrom Go.Elevate, after our experts have participated in a variety of systems integration projects and design of governance models and architectures to support APIs as a product, we have created a training based on industry best practices and thousands of hours ensuring efficient solutions in the short term, and sustainable in the continuous evolution.\n\nWith this course we want to share the experience of our experts in solving one of the most complex issues of enterprise-scale IT projects: the correct integration and collaboration between applications.",
+      "data": {
+        "live": "10 hours live with experts",
+        "time": "8 weeks",
+        "hours": "48 hours total",
+        "audio": "Spanish",
+        "downloadable_material": true,
+        "hands_on_activities": true,
+        "graduation_certificate": true
+      }
+    },
+
+    {
+      "course": "product_manager",
+      "name": "Product Manager",
+      "description": "We understand that product management is fundamentally focused on 3 axes:\n\nStrategic Vision and operational efficiency, with the objective of achieving the development and evolution of the products.\nEntrepreneurship culture, incorporating technologies, methodologies and agile tools to launch and make the products great.\nFocus on User Experience (UX) and data, as a core element of everything that is thought and designed.\n\nProduct Management is becoming a key discipline in all organizations, whether small or multinational. From digital products oriented to consumers (B2C) to corporate products products designed for companies (B2B).\n\nAt Go.Elevate, we have created training for leaders based on industry best practices and thousands of hours managing complex products and projects.\n\nWe want to provide these capabilities to future Senior Product Managers as well as solidify the techniques of those who already practice them by providing an academic and field framework with the latest technological trends in the market.",
+      "data": {
+        "live": "10 hours live with experts",
+        "time": "8 weeks",
+        "hours": "48 hours total",
+        "audio": "Spanish",
+        "downloadable_material": true,
+        "hands_on_activities": true,
+        "graduation_certificate": true
+      }
+    },
+    {
+      "course": "agile_coach",
+      "name": "Agile coach",
+      "description": "Since its appearance almost 20 years ago, agile methodologies and frameworks were established in the IT market as the best known way to do software development. Initially there was a Scrum Master role that later evolved to become the current Agile Coach: An integral role with greater authority and organizational seniority.\n\nAt Elevate we have created this training with the objective of providing participants with the necessary tools to perform as Agile leaders within their organizations and work environments.\n\nWe focus on achieving a complete training that contemplates from one-on-one and group conversations to the challenges of scale that occur when working with Agile throughout the organization.\n\nWe want to train participants at a higher level in Agile and grow the community in the region, based not only on the applicable practicality of Agile to ensure the delivery of value in a project, but also on coaching practices as personal growth.",
+      "data": {
+        "live": "10 hours live with experts",
+        "time": "8 weeks",
+        "hours": "48 hours total",
+        "audio": "Spanish",
+        "downloadable_material": true,
+        "hands_on_activities": true,
+        "graduation_certificate": true
+      }
+    },
+    {
+      "course": "devops",
+      "name": "From Ops to DevOps",
+      "description": "It is very common to find technological professionals working in the Operations area, many of them also have a vast experience that can even reach years of work in management and monitoring.\n\nAt Elevate we have created this training with the objective of providing participants with the necessary tools to incorporate their own development capabilities, truly training you towards DevOps or Software Development.\n\nWe focus on achieving a comprehensive training that covers all the issues that make not only simple programming but also an active participation in the \"end to end\" development and maintenance of IT solutions.\n\nWe want to transform participants from their current roles and grow the community of DevOps professionals in the region.",
+      "data": {
+        "live": "10 hours live with experts",
+        "time": "8 weeks",
+        "hours": "48 hours total",
+        "audio": "Spanish",
+        "downloadable_material": true,
+        "hands_on_activities": true,
+        "graduation_certificate": true
+      }
+    },
+
+    {
+      "course": "sre",
+      "name": "SRE",
+      "description": "SRE is a trend within the DevOps world, meaning that it pursues certain values of integration between Systems Development and Systems Operation. After some initial confusion on the subject (as often happens with new developments) it is now clear what Site Reliability Engineering is. SRE is a specific implementation of DevOps, but it is not just any implementation, it is Google's implementation.\n\nCurrently SRE is considered as the natural evolution of DevOps, and its acceptance was such in the market that all kinds of organizations are implementing the practices and fundamentals of the framework.\n\nFrom GoElevate we have created a training specifically designed to enable participants to become experts on the subject. The training focuses on providing an immersive approach and experience where all the theoretical concepts are reviewed, but also concrete practical examples for Latin America are discussed.\n\nWe want to train participants in the philosophy and foundation of SRE and grow the community in the region.",
+      "data": {
+        "live": "10 hours live with experts",
+        "time": "8 weeks",
+        "hours": "48 hours total",
+        "audio": "Spanish",
+        "downloadable_material": true,
+        "hands_on_activities": true,
+        "graduation_certificate": true
+      }
+    },
+    {
+      "course": "blockchain",
+      "name": "Blockchain",
+      "description": "Just as cloud infrastructure is revolutionizing and changing the way of designing technological solutions, today Blockchain technology is the possibility of being the new engine that provides decentralized value, the fact that it is the tool behind almost all cryptocurrencies is more than proof of the power of the solution.\n\nIn short, the world is being challenged by this new mindset of distributed models that force us to think about other types of architectures, based on the following fundamentals:\n\nUnderstand in detail the basics of Blockchain and decentralized applications, or DApps, and how the data stored there is considered immutable.\nContemplate how blockchain implementation models, consensus algorithms and value chain models can be realized, including distributed computing capacity, nodes and how they add valuable information in encrypted block \"chains\".\n\nFrom Go.Elevate, after our experts have been building for more than 5 years solutions based on Blockchain and DApps, we have created a training based on industry best practices and with the advantage of being the only one of its kind in Spanish.\n\nThis course allows you to get the foundational skills to dive into the world of Blockchain DApps",
+      "data": {
+        "live": "10 hours live with experts",
+        "time": "8 weeks",
+        "hours": "48 hours total",
+        "audio": "Spanish",
+        "downloadable_material": true,
+        "hands_on_activities": true,
+        "graduation_certificate": true
+      }
+    }
+  ]
+}

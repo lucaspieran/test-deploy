@@ -1,0 +1,63 @@
+{
+  "startiaText": "Desarrollo e implementación de soluciones estratégicas diseñadas para resolver los más complejos desafíos.",
+  "devifyText": "Desarrollo de software para materializar las soluciones que la compañía necesita.",
+  "goELlevateText": "Formación líder para profesionales de la tecnología con alto seniority. Programas personalizados In-Company. Trayectorias flexibles en función de cada necesidad.",
+
+  "startia": {
+    "startiaPhrase": "Diseño e implementación de arquitecturas para escalar los negocios y contribuir positivamente en las personas. La primera empresa que resuelve los más complejos desafíos corporativos.",
+    "checkProducts": "Más información",
+    "strategicEvolution": "Desarrollamos productos alineados con la evolución estratégica de la empresa y diseñamos el roadmap necesario para alcanzar los objetivos de negocio.",
+    "apiProduct": "Una forma sostenible y escalable de exponer funcionalidades de negocio garantizando rendimiento, resiliencia y simplicidad.",
+    "cloudAdoption": "Para mitigar los riesgos de migrar es clave un plan de adopción a medida que priorice el contexto de la organización.",
+    "dataDriven": "Maximiza el potencial de tus datos para tomar decisiones adecuadas y eficientes o incluso generar nuevos productos basados en la información.",
+    "devSecOps": "Adopta una estrategia de entrega continua impulsada por la tecnología, que permita no solo acelerar, sino también evolucionar el negocio sin comprometer la calidad.",
+    "digitalTransform": "Implementar nuevas tecnologías o ideas requiere comprender dónde estamos y qué podría adaptarse en función de los conocimientos y las experiencias actuales.",
+    "itStrategy": "Impulsa tu negocio al tiempo que aseguras tus capacidades, diseñando estrategias centradas en las personas, los procesos y la tecnología.",
+    "orgFramework": "Evalúa, diagnostica y evoluciona el modelo operativo de la organización para adoptar la transformación digital con éxito.",
+    "scaledAgile": "Diseña y adopta un modelo operativo basado en prácticas ya validadas de Agile en escala para garantizar una colaboración adecuada entre equipos en entornos complejos.",
+    "techDirection": "Diseñamos, desarrollamos y ayudamos a adoptar soluciones tecnológicas a través de equipos expertos.",
+    "cloudNativeArchitecture": "Diseño de soluciones concebidas desde la alta disponibilidad, resiliencia, escalabilidad, y centradas en la observabilidad, finops y segregación de responsabilidades.",
+    "cloudTuning": "Evita caer en arquitecturas costosas y difíciles de mantener debido al desconocimiento o urgencia para sortear la obsolescencia tecnológica, mediante una correcta optimización en la elección de los servicios Cloud.",
+    "containerizingTheBusiness": "Rediseña las aplicaciones como componentes desacoplados y descartables, normalmente containerizables, para aportar flexibilidad, portabilidad, agilidad e inmutabilidad.",
+    "continuousDelivery": "Estandariza y automatiza la forma en que se entregan las funcionalidades de negocio en la organización, desde la concepción lógica hasta el despliegue y potencial extinción.",
+    "dataTuning": "Identifica potenciales problemas en los procesos de gestión de datos de tu organización sin comprometer la continuidad del negocio.",
+    "developerExperience": "Promueve la adopción de estándares y buenas prácticas en el ciclo de desarrollo de software proporcionando activos a los equipos de TI.",
+    "meshAdoption": "Establece un camino de adopción coherente y progresivo para las tecnologías Mesh dentro de tu organización.",
+    "securityModelIAM": "Diseña una estrategia robusta y segura para gestionar la identidad de los usuarios de su organización, incluyendo mecanismos de autenticación y autorización para conceder acceso a sólo quienes deban tenerlo.",
+    "srePractices": "Construye sistemas robustos, escalables y fáciles de observar, con foco en la automatización y en la colaboración entre equipos.",
+    "archAttack": "Necesidades específicas requieren una atención específica. Cuenta con  un equipo de expertos a disposición, dedicados a impulsar tu negocio para superar cualquier obstáculo."
+  },
+
+  "devify": {
+    "materializing": "Transformamos tus ideas en soluciones tecnológicas para nuevos negocios digitales.",
+    "through": "Gracias a nuestra creatividad y experiencia, garantizamos una calidad excepcional en cada iniciativa.",
+    "codeForIt": "¿Has definido tu arquitectura con Startia? ¿Qué te parece si la hacemos realidad? Déjalo en nuestras manos, podemos dar vida a una solución en base a los objetivos establecidos.",
+    "deliverify": "Simplifica la operación y minimiza los costos de entrada. Trae tu idea, nosotros la convertimos en un producto maduro y funcional en tiempo record.",
+    "sqaas": "Cuenta con la participación de un equipo multidisciplinario centrado en agilidad y calidad para afrontar los desafíos que propone el modelo de trabajo orientado a tribus, y resolver las necesidades de negocio."
+  },
+
+  "inCompany": {
+    "goBack": "Volver Atrás",
+    "incompany": "Capacitación para empresas",
+    "ourDriving": "Nuestro motor es la pasión por hacer mejores procesos.",
+    "continuousTrain": "La formación continua enfocada en las necesidades de cada empresa, impulsa la consecución de objetivos, tanto a nivel organizativo como individual. Acompañamos a aumentar la productividad y fomentamos el alcance de objetivos a través de la potenciación del conocimiento, y acercando a cada estudiante herramientas innovadoras y perspectivas teórico-prácticas que aporten valor a las tareas.",
+    "weBelieve": "Creemos que la forma más eficaz de mejorar es a través de la formación y la puesta en práctica de lo aprendido.",
+    "openCourses": "Cursos abiertos",
+    "coursesText": "Los cursos de formación disponibles en nuestra web pueden ser realizados por particulares y empleados de empresas interesadas.",
+    "customizedTrain": "Cursos a medida",
+    "customizedText": "Son cursos de formación ofrecidos únicamente a los empleados de la organización. Las clases son virtuales y en vivo, lo que favorece el desarrollo de los temas y la relación entre expertos y alumnos.",
+    "whyGoelevate": "¿Por qué Go.Elevate?",
+    "qualified": "Expertos altamente calificados",
+    "qualifiedText": "Profesionales de trayectoria académica y profesional para acercar los conocimientos de forma práctica y concreta.",
+    "liveClasses": "Clases en vivo",
+    "liveText": "Sesiones virtuales en vivo que quedan grabadas.",
+    "exclusiveMaterial": "Material exclusivo",
+    "materialText": "Variedad de documentos y casos prácticos generales o adaptados a la propia organización.",
+    "follow": "Seguimiento del currículum personal",
+    "followText": "Los expertos acompañan el proceso de aprendizaje de los alumnos clase a clase, proporcionan feedback y responden a preguntas.",
+    "evaluations": "Evaluaciones y certificaciones",
+    "evaluationText": "Se entregan certificaciones en tecnología blockchain a quienes completan y cumplen los requisitos del curso de cada programa de formación.",
+    "getInfo": "Obtén más información",
+    "itMarket": "Creemos que el mercado de TI está evolucionando más rápido que la educación formal."
+  }
+}

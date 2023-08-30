@@ -1,0 +1,11 @@
+{
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "phoneNumber": "Phone Number",
+  "message": "Message",
+  "sendMessage": "Send Message",
+  "time": "Time range for being contacted",
+  "position": "Position applied for",
+  "why": "Why would you like to be an Ingenial",
+  "what": "What do you think you can bring to the team"
+}

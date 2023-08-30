@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&family=Nunito:wght@300;400;500;600;700&family=Poppins:wght@400;600;700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #202020;
+  white-space: pre-line;
+  @apply font-nunito;
+}
+
+.custom-container {
+  @apply mx-auto px-4 sm:px-6 lg:px-14 xl:max-w-[1600px];
+}
+
+.gradient-background {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+.gradient-background::before {
+  content: '';
+  position: absolute;
+  top: -30%;
+  left: -10%;
+  width: 50%;
+  height: 100%;
+  border-radius: 50%;
+  filter: blur(100px);
+  background: radial-gradient(circle at bottom, #000000, #7b61ff, #ed1846);
+  background-size: 200% 200%;
+  animation: gradient-animation 15s ease infinite;
+}
+
+.gradient-background::after {
+  content: '';
+  position: absolute;
+  top: 15%;
+  left: -15%;
+  width: 47%;
+  height: 53%;
+  border-radius: 20%;
+  filter: blur(100px);
+  background: radial-gradient(circle at right, #00cfcf, #7b61ff, #ed1846);
+  background-size: 200% 200%;
+  animation: gradient-animation 7s ease infinite;
+  -webkit-border-radius: 20%;
+  -moz-border-radius: 20%;
+  -ms-border-radius: 20%;
+  -o-border-radius: 20%;
+  -webkit-animation: gradient-animation 7s ease infinite;
+  -webkit-filter: blur(80px);
+}
+
+.nested-background {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.nested-background-ourWork {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.nested-background::after,
+.nested-background-ourWork::after {
+  content: '';
+  position: absolute;
+  right: -30%;
+  bottom: -30%;
+  width: 50%;
+  height: 100%;
+  border-radius: 50%;
+  filter: blur(100px);
+  background: radial-gradient(circle at left, #08ffff, #7b61ff, #6953ff);
+  background-size: 200% 200%;
+  animation: gradient-animation 8s ease infinite;
+}
+
+.nested-background::before,
+.nested-background-ourWork::before {
+  content: '';
+  position: absolute;
+  bottom: -35%;
+  right: -35%;
+  width: 50%;
+  height: 100%;
+  border-radius: 50%;
+  filter: blur(100px);
+  background: radial-gradient(circle at top, #000000, #7b61ff, #08ffff);
+  background-size: 200% 200%;
+  animation: gradient-animation 6s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+    transform: translateX(20%);
+  }
+
+  70% {
+    transform: translateX(10%);
+  }
+
+  100% {
+    background-position: 0% 50%;
+    transform: translateX(1%);
+  }
+}
+
+.reduced-opacity {
+  background: linear-gradient(180deg, #202020 0%, rgba(32, 32, 32, 0) 100%);
+}
+
+.card-blend {
+  position: relative;
+  mix-blend-mode: hard-light;
+}
+
+.card-blend::after {
+  position: absolute;
+  content: '';
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(180deg, rgba(32, 32, 32, 0) 0%, #202020 100%);
+  pointer-events: none;
+}
+
+.slideShows-bg {
+  border-radius: 13.28px;
+  background: linear-gradient(141deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0) 100%);
+  box-shadow: 1.659942388534546px 2.213256597518921px 9.406340599060059px 0px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(5.533141613006592px);
+}
+
+.frame-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 177.78%;
+  /* Aspect ratio 9:16 (1280/720) */
+}
+
+.frame-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.frame-container iframe {
+  width: 300%;
+  height: 100%;
+  margin-left: -100%;
+}
+
+@media (min-width: 640px) {
+  .frame-container {
+    overflow: hidden;
+    width: 100%;
+    aspect-ratio: 16/9;
+    pointer-events: none;
+    height: 100;
+  }
+
+  .frame-container iframe {
+    width: 300%;
+    height: 100%;
+    margin-left: -100%;
+  }
+}
+
+@media (min-width: 1366px) {
+  .frame-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%;
+  }
+
+  .frame-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  .frame-container iframe {
+    width: 300%;
+    height: 100%;
+    margin-left: -100%;
+  }
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

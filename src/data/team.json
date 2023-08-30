@@ -1,0 +1,400 @@
+{
+  "team": [
+    {
+      "name": "Alejandra López",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/alejandra_l_pez.jpg",
+      "role": "Product Owner",
+      "circles": ["Value Delivery", "Strategic Evolution", "Software Delivery"],
+      "linkedin": "https://www.linkedin.com/in/mariaalejandralopez/",
+      "bioEsp": "Ingeniera en Sistemas de Información por la Universidad Tecnológica Nacional (UTN). Posee más de 15 años de experiencia como analista funcional en diferentes compañías y departamentos.\nLe apasionan los desafíos y el aprendizaje constante. \nComo Product Owner se encarga de entender las necesidades del cliente y traducirlas en tareas para los distintos equipos involucrados.\nTiene capacidad analítica orientada a resultados y visión estratégica de negocio.",
+      "bioEng": "Information Systems Engineer by National Technological University (UTN). More than 15 years of experience as a functional analyst in different companies and departments.\nPassionate about challenges and constant learning. \nAs Product Owner she is in charge of understanding the client's needs and translating them into tasks for the teams involved.\nShe has participated in the creation of a Competency and Benchmark area.\nResults-oriented analytical skills and strategic business vision."
+    },
+    {
+      "name": "Andrés Kitaura",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/andr_s_kitaura.jpg",
+      "role": "Platform Engineer in Startia",
+      "circles": ["Value Delivery", "Technical Direction"],
+      "linkedin": "https://www.linkedin.com/in/andreskitaura/",
+      "bioEsp": "Licenciado en Informática, certificado AWS Solution Architect\nEspecialista en infraestructura, automatización, CICD, contenedores y kubernetes.\nComo Platform Engineer en Startia acompaña a los clientes en el diseño e implementación de nuevas tecnologías para dar soporte al negocio.\nEn sus casi 30 años de experiencia, ha participado de la definición de principios, arquitectura, diseño e implementación en grandes datacenters (+5000 servidores) tanto onpremise como en cloud.\nParticipó de la arquitectura y diseño de la infraestructura de soporte aplicativo en Telecom Argentina (telecomunicaciones) durante casi 20 años, pudiendo integrar soluciones entre distintos datacenters, enlaces, storage, base de datos, y software base.\nLe apasiona aprender y poder transmitir su conocimiento. Entiende cada nuevo proyecto como una oportunidad para aprender y enseñar al mismo tiempo.",
+      "bioEng": "Bachelor in Computer Science, certified AWS Solution Architect.\nInfrastructure, automation, CICD, containers and kubernetes specialist.\nAs a Platform Engineer in Startia he accompanies customers in the design and implementation of new technologies to support the business.\nIn his almost 30 years of experience, he has participated in the definition of principles, architecture, design and implementation in large datacenters (+5000 servers) both onpremise and cloud.\nHe has participated in the architecture and design of the application support infrastructure in Telecom Argentina (telecommunications) for almost 20 years, being able to integrate solutions between different datacenters, links, storage, database, and base software.\nHe is passionate about learning and transmitting his knowledge understanding each new project as an opportunity to learn and teach at the same time."
+    },
+    {
+      "name": "Carolina Aliaga",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/carolina_aliaga.jpg",
+      "role": "People Experience Expert",
+      "circles": ["People Experience & Technology"],
+      "linkedin": "https://www.linkedin.com/in/mcaroaliaga/",
+      "bioEsp": "Licenciada en administración de empresas con 10 años de experiencia en el área de personas.\nLe apasiona hackear procesos, solucionar problemas y potenciar a las personas.\nA lo largo de su carrera trabajó en multinacionales como así también en startups de tecnología en diferentes estadios, cumpliendo diferentes roles, lo que le permitió adquirir una visión integral de las personas en las diferentes etapas.\nActualmente se desempeña como People Experience Expert, acompañando a los ingenials en las diferentes etapas del roadmap de experience: reclutamiento, onboarding, desarrollo y performance.",
+      "bioEng": "Bachelor in business administration with 10 years of experience in the people area.\r\nShe is passionate about hacking processes, solving problems and empowering people.\r\nThroughout her career she has worked in multinationals as well as in technology startups at different stages, fulfilling different roles, which allowed her to acquire a comprehensive view of people at different stages.\r\nShe currently works as People Experience Expert, accompanying ingenials in the different stages of the experience roadmap: recruitment, onboarding, development and performance."
+    },
+    {
+      "name": "Damián García",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/dami_n_garc_a.jpg",
+      "role": "Head of Software Delivery in Devify",
+      "circles": ["Value Delivery", "Software Delivery"],
+      "linkedin": "https://www.linkedin.com/in/damianegarcia/",
+      "bioEsp": "Ingeniero de Software con una amplia trayectoria en el campo de la tecnología.                                                                                                  Apasionado por la Inteligencia Artificial y el Machine Learning.\nActualmente, se desempeña como Head of Software Delivery in Devify at Ingenia.\nEn Ingenia trabajó como Arquitecto de Soluciones. Antes se desempeñó como Consultor Senior de Preventa, Continuous Delivery y DevOps, en CA Technologies, siempre ayudando a empresas a realizar su transformación digital mediante la aplicación de entrega continua en su ciclo de vida de desarrollo de software.",
+      "bioEng": "Software Engineer with an extensive background in technology.                                                                                                  Passionate about Artificial Intelligence and Machine Learning.\nCurrently, he is Head of Software Delivery in Devify at Ingenia.\nAt Ingenia he worked as a Solution Architect. Previously he worked as a Senior Consultant of Presales, Continuous Delivery and DevOps, at CA Technologies, always helping companies to realize their digital transformation by applying continuous delivery in their software development lifecycle."
+    },
+    {
+      "name": "Daniela Gazpio",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/daniela_gazpio.jpg",
+      "role": "Agile Facilitator",
+      "circles": ["Value Delivery", "Strategic Evolution", "Software Delivery"],
+      "linkedin": "https://www.linkedin.com/in/daniela-gazpio-a750b538/",
+      "bioEsp": "Licenciada en Administración de Empresas por la Universidad de Buenos Aires (UBA), especializada en la gestión de proyectos mediante metodologías ágiles, certificada en la metodología OKR.\nPosee experiencia en la gestión Pública dentro de la industria de salud y en empresas de consumo masivo.\nEn Ingenia facilita espacios estratégicos y tácticos basados en metodologías ágiles y colaborativas. En clientes promueve mejoras en los procesos para lograr que el producto brinde la mejor experiencia al usuario.\nLe apasiona proponer y desarrollar soluciones para el cumplimiento de objetivos facilitando conversaciones en equipos colaborativos.",
+      "bioEng": "Degree in Business Administration from the University of Buenos Aires. (UBA), specialized in project management through agile methodologies, certified in OKR methodology.\nShe has experience in public management within the health industry and in mass consumption companies.\nAt Ingenia she facilitates strategic and tactical spaces based on agile and collaborative methodologies. In clients, he promotes process improvements to ensure that the product provides the best user experience.\nShe is passionate about proposing and developing solutions to achieve objectives by enabling conversations in collaborative teams."
+    },
+    {
+      "name": "Diego Genise",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/diego_genise.jpg",
+      "role": "Solution Architect in Startia",
+      "circles": ["Value Delivery", "Technical Direction"],
+      "linkedin": "https://www.linkedin.com/in/diego-genise-aba83041/",
+      "bioEsp": "Cloud Engineer de Google Certificado con mas de 20 años de experiencia liderando equipos de tecnología llevando adelante desafíos de alto impacto social en el sector salud pública y privada.\nApasionado por incorporar conocimiento y aplicarlo en soluciones tecnológicas de gran escala.\nOrientado a potenciar la experiencia de nuestros clientes desde lo tecnológico y lo humano.\nPromotor de la formación de grupos y el trabajo en equipo.\n",
+      "bioEng": "Google Certified Cloud Engineer with more than 20 years of experience leading technology teams, undertaking challenges of high social impact in the public and private health sector.\nPassionate about incorporating knowledge and applying it to large-scale technological solutions.\nOriented to enhance the experience of our customers from a technological and human point of view.\nPromoter of team building and teamwork."
+    },
+    {
+      "name": "Federico Catinello",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/federico_catinello.jpg",
+      "role": "Head of Tech Direction in Startia",
+      "circles": ["Value Delivery", "Technical Direction", "Growth"],
+      "linkedin": "https://www.linkedin.com/in/fcatinello/",
+      "bioEsp": "Graduado como Ingeniero en Sistemas en la Universidad Tecnológica Nacional (UTN), actualmente ejerce como profesor universitario en el Instituto Tecnológico de Buenos Aires (ITBA).\nExperto en arquitecturas distribuídas y su impacto en el ecosistema cloud, desde cuestiones culturales hasta el software de base.\nEn Ingenia lidera el equipo de consultoría de arquitectura de solución y técnica. Desde hace 10 años acompaña a las organizaciones a tomar decisiones para evolucionar su negocio utilizando la tecnología como medio.\nFederico se define como docente por vocación, arquitecto por elección y amante del deporte y de una buena pasta. ",
+      "bioEng": "Graduated as a Systems Engineer from the National Technological University (UTN), he currently works as a university professor at the Buenos Aires Technological Institute.\nExpert in distributed architectures and their impact on the cloud ecosystem, from cultural issues to the core software.\nAt Ingenia he leads the solution architecture and technical consulting team. For 10 years he has been helping organizations to make decisions in order to evolve their business using technology as a medium.\nFederico defines himself as a teacher by vocation, architect by choice and lover of sports and good pasta."
+    },
+    {
+      "name": "Fernando Sclavo",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/fernando_sclavo.jpg",
+      "role": "Head of Strategic Evolution in Startia ",
+      "circles": ["Value Delivery", "Strategic Evolution"],
+      "linkedin": "https://www.linkedin.com/in/fernando-sclavo-738252b9/",
+      "bioEsp": "Licenciado en Sistemas por la Universidad Tecnológica Nacional (UTN), experto Universitario en Mercado de Capitales. Especialista en acercar la tecnología a las personas y las personas a la tecnología.\nApasionado por resolver, construir y generar relaciones humanas y soluciones tecnológicas duraderas y potentes. En Ingenia, lidera el equipo de consultoría en Evolución Estratégica.\nMas de 20 años liderando equipos IT en grandes organizaciones, dirigiendo proyectos tecnológicos y de transformación digital pioneros en la región.",
+      "bioEng": "Bachelor in Systems from the National Technological University (UTN), University expert in Capital Markets. Specialist in bringing technology to people and people to technology.\nPassionate about solving, building and generating human relationships and lasting and powerful technological solutions. At Ingenia, he leads the Strategic Evolution consulting team.\nMore than 20 years leading IT teams in large organizations, leading pioneering technology and digital transformation projects in the region."
+    },
+    {
+      "name": "Gabriel Alario",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/gabriel_alario.jpg",
+      "role": "Brand Evolution Expert",
+      "circles": ["Branding", "People Experience & Technology"],
+      "linkedin": "https://www.linkedin.com/in/gabriel-alario-637257147/",
+      "bioEsp": "Licenciado en Comunicación Social, con estudios de postgrado en Gestión de Comunicación Corporativa, Marketing Digital, Diseño UX y Copywriting.\nLo moviliza la divulgación y el posicionamiento estratégico de organizaciones educativas y tecnológicas.\nDesde su rol de Brand Evolution Expert acompaña el desarrollo de Ingenia como grupo a través de una estrategia global de comunicación, con foco en Imagen Corporativa, Social Media, Marketing Digital, Relaciones con los Medios y Comunicación Interna.\nCuenta con más de 15 años de trayectoria en el ámbito de la comunicación, liderando el lanzamiento y reboot de proyectos desafiantes en su área.\n",
+      "bioEng": "Bachelor in Social Communication, with postgraduate studies in Corporate Communication Management, Digital Marketing, UX Design and Copywriting.\nHe is driven by the dissemination and strategic positioning of educational and technological organizations.\nFrom his role as Brand Evolution Expert, he accompanies the development of Ingenia as a group through a global communication strategy, focusing on Corporate Image, Social Media, Digital Marketing, Media Relations and Internal Communication.\nHe has more than 15 years of experience in communication, leading the launch and reboot of challenging projects in his area."
+    },
+    {
+      "name": "Geronimo Giovenale",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/geronimo_giovenale.jpg",
+      "role": "Fullstack Developer in Devify",
+      "circles": ["Value Delivery", "Software Delivery"],
+      "linkedin": "https://www.linkedin.com/in/gerogiovenale/",
+      "bioEsp": "Licenciado en Sistemas por la Universidad Nacional de Entre Ríos. Desarrolldor backend en Java, Spring Boot, SQL. Conocimientos en Typescript y React y en herramientas como Docker, Keycloak, GCP, Azure y AWS.\nApasionado por resolver desafíos aplicando las mejores prácticas posibles garantizando un software de calidad. Entusiasta del aprendizaje continuo, llevando todo a la práctica. Fanático de aventurarse a resolver problemas que le resultan desconocidos.\nEn Ingenia se encarga de materializar APIs REST utilizando Java + Spring Boot.\nGero es además un gran jugador de Tchoukball.",
+      "bioEng": "Bachelor in Systems from the National University of Entre Ríos. Backend developer in Java, Spring Boot, SQL. Knowledge in Typescript, React and tools such as Docker, Keycloak, GCP, Azure and AWS.\r\nPassionate about solving challenges by applying the best possible practices ensuring quality software. Enthusiastic about continuous learning, taking everything to practice. Fanatic about venturing to crack problems that are unfamiliar to him.\r\nAt Ingenia he is in charge of materializing REST APIs using Java + Spring Boot.\r\nGero is also a great Tchoukball player."
+    },
+    {
+      "name": "Gustavo Brey",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/gustavo_brey.jpg",
+      "role": "Co-founder & Head of Growth and Branding",
+      "circles": ["Growth", "Branding"],
+      "linkedin": "https://www.linkedin.com/in/gbrey/",
+      "bioEsp": "Ingeniero en Sistemas de la Información de la Universidad Tecnológica Nacional (UTN). Más de 15 años liderando equipos de Ingeniería, escalando startups tecnológicas y grandes organizaciones. Fundador de la materia “Arquitecturas de proyectos IT”, en la UTN y el Instituto de Tecnología de Buenos Aires (ITBA).  También es Co-founder de Go.elevate y Bombo como fractional CTO.Co-Fundador y Head of Growth & Branding de Ingenia.",
+      "bioEng": "Information Systems Engineer from the National Technological University (UTN). More than 15 years leading engineering teams, scaling technology startups and large organizations. Founder of the subject \"IT Project Architectures\", at UTN and the Buenos Aires Technological Institute (ITBA).  He is also Co-founder of Go.elevate and Bombo as fractional CTO. Co-Founder and Head of Growth & Branding of Ingenia."
+    },
+    {
+      "name": "Gustavo Fresno",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/gustavo_fresno.jpg",
+      "role": "Backend Developer in Devify",
+      "circles": ["Value Delivery", "Software Delivery"],
+      "linkedin": "https://www.linkedin.com/in/fresnogustavo/",
+      "bioEsp": "Ingeniero Electrónico con amplia experiencia en el desarrollo de soluciones tecnológicas. Apasionado por la docencia y la transmisión de conocimiento, es también profesor universitario. Experto en resolver desafíos innovadores con las últimas tecnologías disponibles. Hardware y Software son sus pasiones, un desarrollador todo terreno.\nActualmente es desarrollador backend Java en diversos proyectos modernos. Trabajó en desarrollos C++, C#, Go y Python.\nHa participado con éxito en desafíos profesionales muy diversos dentro de distintas industrias, desde gastronomía, hasta deploy's de pipeline's para soluciones de software, pasando por el desarrollo de computadoras de abordo para camiones o transmisores satelitales.",
+      "bioEng": "Electronic Engineer with extensive experience in the development of technological solutions. Passionate about teaching and knowledge transmission, he is also a university professor. Expert in solving innovative challenges with the latest technologies available. Hardware and Software are his passions, an all-round developer.\nHe is currently a Java backend developer in several modern projects. He worked on C++, C#, Go and Python developments.\nHe has successfully participated in very diverse professional challenges in different industries, from gastronomy, to deployments of pipeline's for software solutions, to the development of on-board computers for trucks or satellite transmitters."
+    },
+    {
+      "name": "Hernán Benedetti",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/hern_n_benedetti.jpg",
+      "role": "Growth Operations & Technology Expert",
+      "circles": ["Growth", "Value Delivery"],
+      "linkedin": "https://www.linkedin.com/in/hernanbenedetti/",
+      "bioEsp": "Ingeniero en Sistemas de Información de la Universidad Tecnológica Nacional (UTN), experto en metodologías ágiles, mejora de procesos y facilitación de cursos. \nA Hernán lo moviliza darle un enfoque humano a la tecnología y que pueda ser utilizada en beneficio de la humanidad. En Ingenia se encarga de asegurarse de brindar soluciones de valor a los clientes a través del trabajo en equipo. \nCuenta con experiencia en consultoría, metodologías ágiles, desarrollo de software en industrias de salud, tecnología, eCommerce y banca, entre otras.",
+      "bioEng": "Systems Information Engineer from the National Technological University (UTN), expert in agile methodologies, process improvement, and course facilitation. \nHernán is driven by giving a human approach to technology and using it for the benefit of humanity. At Ingenia, he ensures to provide valuable solutions to clients through teamwork. \nHe has experience in consulting, agile methodologies, software development in industries such as healthcare, technology, eCommerce, and banking, among others."
+    },
+    {
+      "name": "Hernan Petitti",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/hernan_petitti.jpg",
+      "role": "Technology Advisor",
+      "circles": ["Growth"],
+      "linkedin": "https://www.linkedin.com/in/hpetitti/",
+      "bioEsp": "Ingeniero senior con más de 20 años de experiencia especializada en venta de soluciones IT, venta consultiva y asesoramiento tecnológico basado en la confianza. Trabajó para compañías multinacionales de tecnología líderes en Latinoamérica.\nApasionado por la docencia, el aprendizaje constante y contribuir significativamente en ambientes ágiles basados en la tecnología.\nSe destaca su habilidad de comunicación oral y escrita, gestión de equipos y sus habilidades interpersonales.",
+      "bioEng": "Senior engineer with more than 20 years of experience specializing in IT solutions sales, consultative sales and technology consulting based on trust. He has worked for leading multinational technology companies in Latin America.\nPassionate about teaching, constant learning and contributing significantly in agile environments based on technology.\nHe stands out for his oral and written communication skills, team management and interpersonal skills."
+    },
+    {
+      "name": "Ignacio Aguirre",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/ignacio_aguirre.jpg",
+      "role": "Fullstack Developer in Devify",
+      "circles": ["Value Delivery", "Software Delivery"],
+      "linkedin": "https://www.linkedin.com/in/ignacio-nicolas-aguirre/",
+      "bioEsp": "Técnico en programación, con experiencia en desarrollo mobile y web utilizando principalmente React Native y Next.JS.\nApasionado por la construcción y optimización de aplicaciones con el fin de tener aplicaciones escalables y de buena performance.\nComo FullStack developer se encarga de construir en base a los lineamientos definidos, con la capacidad para aportar desde su visión.\nParticipó en proyectos para distintas áreas. El desafío que más lo enorgullece fue haber logrado la etapa nacional de las olimpíadas de programación del INET.\nLe gustan las actividades fisicas, siendo el Jiu-Jitsu su deporte favorito.",
+      "bioEng": "Programming technician, with experience in mobile and web development using mainly React Native and Next.JS.\nPassionate about building and optimizing applications in order to have scalable and good performance applications.\nAs a FullStack developer he builds according to the defined guidelines, with the ability to contribute with his vision.\nHe has participated in projects for different areas. The challenge he is most proud of was to have achieved the national stage of the INET programming Olympics.\nHe likes physical activities, being Jiu-Jitsu his favorite sport."
+    },
+    {
+      "name": "Jonathan Donzet",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/jonathan_donzet.jpg",
+      "role": "Solution Architect in Startia",
+      "circles": ["Value Delivery", "Technical Direction"],
+      "linkedin": "https://www.linkedin.com/in/jdonzet/",
+      "bioEsp": "Ingeniero en Computación graduado de Facultad de Ingeniería en UdelaR, Montevideo Uruguay.\nA Jonathan le apasiona diseñar y construir para lograr algo que aún no estaba disponible o que supere lo establecido. Disfruta estar en la intersección del código / datos así como también la parte visual, la UI, los gráficos, aquello que le da apariencia al producto.\nComo Solution Architect en Startia, se encarga de diseñar la colaboración de distintos componentes del un sistema para cumplir con objetivo de negocio por medio de crear o evolucionar soluciones en sistemas que dan soporte a la organización. Conformar parte de equipos multidisciplinarios para relevar las necesidades, diseñar y construir la solución.\nLa inquietud por el mundo de la construcción de productos y las startups, le llevo a fundar BLUY, una plataforma de logística de última milla para e-Commerce, para la cual desarrolló el punta a punta, desde la parte técnica para desarrollar los sistemas, hasta la parte comercial y branding.\nCuenta con experiencia en varias industrias como: Banca, Logística, e-Commerce, Comunicaciones. Se siente cómodo cuando conforma equipos con grandes niveles de compromiso lo que permite alcanzar resultados complejos y motivantes.",
+      "bioEng": "Computer Engineer graduated from the University of Engineering at UdelaR, Montevideo Uruguay.\nJonathan is passionate about designing and building in order to achieve something that was not yet available or that surpasses the established. He enjoys being at the intersection of code / data as well as the visual part, the UI, the graphics, all that gives the product its look and feel.\nHe is comfortable forming teams with high levels of commitment to achieve complex and motivating results.\nAs a Solution Architect at Startia, he is in charge of designing the collaboration of different components of a process to meet business objectives by creating or evolving solutions in systems that support the organization. He is part of multidisciplinary teams to survey the needs, design and build the solution.\nHis interest in the world of building products and startups led him to found BLUY, a last mile logistics platform for e-Commerce, for which he was in charge of developing the end-to-end technical part to develop the systems, as well as the commercial and branding part. \nHe has experience in several industries such as: Banking, Logistics, e-Commerce, Communications.\n"
+    },
+    {
+      "name": "Juan Garibaldi",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/juan_garibaldi.jpg",
+      "role": "Backend Developer in Devify",
+      "circles": ["Value Delivery", "Software Delivery"],
+      "linkedin": "https://www.linkedin.com/in/juan-garibaldi-trebino/",
+      "bioEsp": "Posee más de 10 años de experiencia en desarrollo Java, tanto en proyectos nuevos como manteniendo ya existentes. Se desempeñó en PyMes y  empresas de alcance internacional.\nLe apasiona optimizar lo más posible la performance del código y reforzarlo de manera de evitar errores inesperados.\nComo Backend Developer sus responsabilidades se centran en responder a las requerimientos de los clientes.\n",
+      "bioEng": "He has more than 10 years of experience in Java development, both in new projects and maintaining existing ones. He has worked in SMEs and international companies.\nHe is passionate about optimizing as much as possible the performance of the code and enforcing it in order to avoid unexpected errors.\nAs a Backend Developer his responsibilities are focused on responding to customer requirements."
+    },
+    {
+      "name": "Juan Pablo Aveggio",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/juan_pablo_aveggio.jpg",
+      "role": "Backend Developer in Devify",
+      "circles": ["Value Delivery", "Software Delivery"],
+      "linkedin": "https://www.linkedin.com/in/jpaveggio/",
+      "bioEsp": "Licenciado en Sistemas por a Universidad Nacional de Río Negro (UNRN). Análisis, diseño y desarrollo en el paradigma orientado a objetos, basado en principios, patrones y buenas prácticas. Programación reactiva.\nLe apasionan los desafíos tecnológicos, y la resolución de problemas que lo desafíen a algo nuevo.\nComo Backend Developer in Devify, en Ingenia se desempeña en la construcción de soluciones basadas en microservicios utilizando Java + Spring Boot, Camel, Docker, Keycloak y AWS entre otras tecnologías.",
+      "bioEng": "Bachelor in Systems from the Technological University of Río Negro (UNRN). Analysis, design and development in the object-oriented paradigm, based on principles, patterns and best practices. Reactive programming.\nHe is passionate about technological challenges, and solving problems that defy him to something new.\nAs a Backend Developer in Devify, at Ingenia he works on building solutions based on microservices using Java + Spring Boot, Camel, Docker, Keycloak and AWS among other technologies."
+    },
+    {
+      "name": "Julian Blanco",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/julian_blanco.jpg",
+      "role": "Fullstack Developer in Devify",
+      "circles": ["Value Delivery", "Software Delivery"],
+      "linkedin": "https://www.linkedin.com/in/julian-blanco-81a358203/",
+      "bioEsp": "Programador Full Stack especializado en Python, con experiencia en ReactJs, NextJs y Golang.\nLe apasionan la resolución de problemas y encontrar soluciones eficientes a desafíos tecnológicos. Disfruta los nuevos retos y aprender nuevas tecnologías.\nComo programador Fullstack en Devify se encarga del desarrollo y el mantenimiento de proyectos de software, tanto en el frontend como en el backend.\nDurante su carrera profesional tuvo la oportunidad de enfrentar desafíos significativos y superarlos con éxito. Antes de unirse al equipo, trabajó como supervisor de mantenimiento en un empresa de recolección, donde adquirió habilidades de liderazgo y resolución de problemas en un entorno operativo.\nEs apasionado del aprendizaje continuo y se mantiene actualizado sobre las últimas tendencias y tecnologías en el desarrollo de software.",
+      "bioEng": "Full Stack Programmer specialized in Python, with experience in ReactJs, NextJs and Golang.\nHe is passionate about problem solving and finding efficient solutions to technological challenges. He enjoys new projects and learning new technologies.\nAs a Fullstack programmer at Devify he is responsible for the development and maintenance of software development projects, both frontend and backend.\nDuring his professional career he had the opportunity to face significant challenges and overcome them successfully. Prior to joining the team, he worked as a maintenance supervisor at a collection company, where he acquired leadership and problem solving skills in an operational environment.\nHe is passionate about continuous learning and keeps himself updated on the latest trends and technologies in software development."
+    },
+    {
+      "name": "Julián Visedo",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/juli_n_visedo.jpg",
+      "role": "Project Booster",
+      "circles": ["Value Delivery"],
+      "linkedin": "https://www.linkedin.com/in/juli%C3%A1n-visedo-400ab6b/",
+      "bioEsp": "Ingeniero de Sistemas de la Universidad Nacional de La Matanza (UNLaM), con 20 años de experiencia en distintos roles de gestión de proyectos de IT, principalmente en industrias Telco, Banca y Gastronomía.\nApasionado por la gestión de proyectos desafiantes y complejos, con nuevas tecnologías, equipos remotos y empresas multiculturales.\nComo Project Booster en Ingenia vela por la ejecución de proyectos de manera eficaz y eficiente, optimizando la capacidad ingenial y recursos necesarios.\nLe gusta viajar con la familia y es un rústico líbero del fútbol.",
+      "bioEng": "Systems Engineer from the University of La Matanza (UNLaM), with 20 years of experience in different IT project management roles, mainly in Telco, Banking and Gastronomy industries.\nPassionate about managing challenging and complex projects, with new technologies, remote teams and multicultural companies.\nAs a Project Booster at Ingenia he ensures the execution of projects in an effective and efficient way, optimizing the ingenious capacity and necessary resources.\nHe enjoys traveling with the family and is a rustic soccer player."
+    },
+    {
+      "name": "Leandro Alessandrello",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/leandro_alessandrello.jpg",
+      "role": "Solution Architect & Tech Leader",
+      "circles": ["Value Delivery", "Software Delivery", "Technical Direction"],
+      "linkedin": "https://www.linkedin.com/in/leandro-alessandrello-44b73830/",
+      "bioEsp": "Experto en integraciones de servicios., con mas de 10 años en el mercado IT. \nLe apasionan los desafíos tecnológicos. Desde sus inicios le gusta la programación, Java como cabecera,  y además brindar soluciones de arquitectura a distintos modelos de negocio como banca, telecomunicaciones y seguros. ",
+      "bioEng": "Expert in service integrations, with more than 10 years in the IT market. \nHe is passionate about technological challenges. Since his beginnings he likes programming, Java as a head, and also provide architecture solutions to different business models such as banking, telecommunications and insurance."
+    },
+    {
+      "name": "Lucas Pierandrei",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/lucas_perandrei.jpg",
+      "role": "Fullstack Developer in Devify",
+      "circles": ["Value Delivery", "Software Delivery"],
+      "linkedin": "https://www.linkedin.com/in/lucas-pierandrei/",
+      "bioEsp": "Técnico en programación por la Universidad Tecnológica Nacional, Facultad Regional de Resistencia (UTN FRRE). Desarrolla frontend con diferentes tecnologías como React, React Native y Vuejs y backend con Nodejs.\nApasionado por el aprendizaje continuo y la búsqueda e implementación de soluciones que resuelvan problemas complejos.\nComo FullStack developer en Devify, se encarga de construir soluciones de alta calidad en base a los lineamientos definidos.",
+      "bioEng": "Programming Technician from the National Technological University, Resistencia Regional Faculty (UTN FRRE). Develops frontend with different technologies such as React, React Native and Vuejs and backend with Nodejs.\nPassionate about continuous learning and the constant search and implementation of solutions that solve complex problems.\nAs a FullStack developer at Devify, he is in charge of building high quality solutions based on the defined guidelines."
+    },
+    {
+      "name": "Manuel Milillo",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/manuel_milillo.jpg",
+      "role": "Solution Architect in Startia",
+      "circles": ["Value Delivery", "Technical Direction"],
+      "linkedin": "https://www.linkedin.com/in/manuel-milillo/",
+      "bioEsp": "Estudiante de Ingeniería informática en la Universidad Nacional de Avellaneda, especializado en sistemas distribuidos. Más de 8 años de experiencia en el diseño y la construcción de soluciones innovadoras en tecnología .NET y Azure. Como Solution Architect en Startia es responsable de definir soluciones escalables, perforantes y adaptadas a las necesidades del cliente, así como también velar por su correcta implementación. Posee experiencia en grandes compañías de seguros y banca, así como también en startups. Apasionado de la tecnología, comprometido con el aprendizaje y con compartir el conocimiento con sus pares.",
+      "bioEng": "Computer Engineering student at  the National University of Avellaneda, specialized in distributed systems. More than 8 years of experience in designing and building innovative solutions in .NET and Azure technology. As a Solution Architect at Startia, he is responsible for defining scalable, drillable and customized solutions, as well as ensuring their correct implementation. He has experience in large insurance and banking companies, as well as in startups. Passionate about technology, committed to learning and sharing knowledge with his peers."
+    },
+    {
+      "name": "Marcelo Albarracín",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/marcelo_albarrac_n.jpg",
+      "role": "Backend Developer in Devify",
+      "circles": ["Value Delivery", "Software Delivery"],
+      "linkedin": "",
+      "bioEsp": "Ingeniero en Sistema por la Universidad Tecnológica Nacional (UTN, Córdoba). Certificado como Scrum Master por International Scrum Institute. \nPosee una amplia trayectoria como Desarrollador en compañías nacionales e internacionales como Motorola Mobility y Disney. Cuenta con conocimientos en aplicación de una variedad de lenguajes de programación y frameworks.\nApasionado por la tecnología y el desarrollo, actualmente se desempeña con Líder Técnico y desarrollador Backend Java en Devify. \nEl desafío que mas lo enorgullece fue haber participado en un proyecto para Arsat 1.",
+      "bioEng": "System Engineer from the National Technological University (UTN, Córdoba). Certified as Scrum Master by International Scrum Institute. \nHe has extensive experience as a developer in national and international companies such as Motorola Mobility and Disney. He has knowledge in the application of a variety of programming languages and frameworks.\nPassionate about technology and development, he currently works as a Technical Lead and Backend Java developer at Devify. \nThe challenge he is most proud of was participating in a project for Arsat 1."
+    },
+    {
+      "name": "María Laura Torres",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/mar_a_laura_torres.jpg",
+      "role": "Brand Content Specialist",
+      "circles": ["Branding"],
+      "linkedin": "",
+      "bioEsp": "Licenciada en Comunicación por la Universidad Católica Argentina (UCA) y Editora por la Universidad de Buenos Aires (UBA), con más de 10 años contando historias inspiradoras que buscan transformar y generar impacto en las personas.\nCon sólida experiencia en industrias creativas de Publicidad y Marketing Digital, actualmente en Ingenia implementa la estrategia de marca en los distintos canales digitales y touchpoints, identifica temáticas internas para posicionar a perfiles técnicos en medios masivos, crea y conceptualiza mensajes pensados en diversos formatos para llegar al público objetivo.\nA lo largo de su carrera se desempeñó en diferentes roles en los que se encargó de la planificación e implementación de estrategias de contenidos, definiciones de voz y tono, arquitectura de la información, posicionamiento, análisis de tendencias, lanzamientos y campañas de adquisición de clientes.\nApasionada por la creación ideas y la puesta en marcha de proyectos que dejen huella. Hacer que las cosas sucedan.",
+      "bioEng": "Bachelor in Communication from the Argentine Catholic University (UCA) and Editor from the Buenos Aires University (UBA), with more than 10 years telling inspiring stories that seek to transform and generate impact on people.\nWith solid experience in the creative industries of Advertising and Digital Marketing, currently at Ingenia she implements the brand strategy in different digital channels and touchpoints, identifies internal themes to position technical profiles in mass media, creates and conceptualizes messages designed in different formats to reach the target audience.\nThroughout her career she has worked in different roles in which she was in charge of planning and implementing content strategies, voice and tone definitions, information architecture, positioning, trend analysis, launches and customer acquisition campaigns.\nPassionate about creating ideas and implementing projects that leave an impact. Making things happen."
+    },
+    {
+      "name": "Mariana Navarro",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/mariana_navarro.jpg",
+      "role": "Backend Developer in Devify",
+      "circles": ["Value Delivery", "Software Delivery"],
+      "linkedin": "https://www.linkedin.com/in/mariana-b-navarro/",
+      "bioEsp": "Estudiante de la Licenciatura en Sistemas de la Universidad Argentina de la Empresa (UADE). Experta en lenguajes de programación como Java y Python, así como en el desarrollo de aplicaciones web y móvil. \nApasionada por la creación de soluciones tecnológicas innovadoras, se destaca por su habilidad para convertir ideas en software funcional y eficiente. Su enfoque orientado al cliente le permite comprender las necesidades y requisitos específicos de cada proyecto, asegurando una entrega exitosa y satisfactoria.\nA lo largo de su carrera, ha enfrentado diversos desafíos trabajando con clientes de distintas industrias, buscando siempre afianzar de la mejor manera los conocimientos propios del sector y brindando todo su potencial para asegurar entregas en tiempo y forma, cumpliendo principios básicos de usabilidad, rendimiento y seguridad. Estas experiencias le permitieron perfeccionar sus habilidades técnicas y de comunicación con los equipos.\nMariana es una programadora comprometida y apasionada que aporta su amor por el desarrollo de software en su rol en Ingenia.",
+      "bioEng": "Student of the Bachelor's Degree in Systems at the Argentine University of Business (UADE).\nExpert in programming languages such as Java and Python, as well as in web and mobile application development. \nPassionate about creating innovative and technological solutions, she stands out for her ability to turn ideas into functional and efficient software. Her customer-oriented approach allows her to understand the specific needs and requirements of each project, ensuring a successful and satisfactory delivery.\nThroughout his career, she has faced several challenges working with clients from different industries, always seeking to strengthen her knowledge of the field and providing her best potential to ensure timely deliveries, complying with basic principles of usability, performance and security.\nThese experiences gave her a solid perspective allowing her to improve her technical and communication skills with the teams.\nMariana is a committed and passionate programmer who brings her love for software development to her role at Ingenia."
+    },
+    {
+      "name": "Martín Ghelardi",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/mart_n_ghelardi.jpg",
+      "role": "Financial Specialist",
+      "circles": ["Controlling"],
+      "linkedin": "",
+      "bioEsp": "Contador, especializado durante muchos años en Impuestos 4°categoria, mas conocido como impuestos personas fisicas.\nActualmente, su función principal es cuidar la salud financiera de Ingenia. Martín es la fuente de consulta de sueldos e impositivas y otros temas relacionados a cada ingenial.\nLo que más lo desafía en su trabajo es poder medir en números todos los movimientos de la organización, buscando el equilibrio constante entre la rentabilidad de los números y la particularidad de cada ingenial.",
+      "bioEng": "Accountant, specialized for many years in 4th category taxes, better known as personal taxes.\nCurrently, his main function is to take care of Ingenia's financial health. Martin is the source for consulting on salaries and taxes and other topics related to each ingenial.\nWhat challenges him the most in his job is to be able to measure in numbers all the movements of the organization, looking for a constant balance between the profitability of the numbers and the particularity of each ingenial."
+    },
+    {
+      "name": "Matías Semelman",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/mat_as_semelman.jpg",
+      "role": "Fullstack Developer in Devify",
+      "circles": ["Value Delivery", "Software Delivery"],
+      "linkedin": "https://www.linkedin.com/in/matias-semelman/",
+      "bioEsp": "Especializado en React y NextJS, con experiencia en proyectos de microservicios, utilizando Docker, Keycloak, REST y distintas librerías / frameworks de estilos.\nEs un apasionado de la tecnología y su capacidad para transformar el mundo. Le encantan los desafíos y ningún obstáculo lo frena. Matías se caracteriza por tener una gran capacidad de escucha activa frente a los clientes.\nSe destacó en proyectos del rubro Salud y Plataformas de Pago. Posee conocimiento y experiencia de industrias de seguros, finanzas, logística y automotriz.",
+      "bioEng": "Specialized in React and NextJS, with experience in microservices projects, using Docker, Keycloak, REST and different style libraries / frameworks.\nHe is passionate about technology and its ability to transform the world. He loves challenges and no obstacle stops him. Matias is characterized by a great ability to actively listen to clients.\nHe has excelled in projects in the Healthcare and Payment Platforms industries and has knowledge and experience in the insurance, finance, logistics and automotive industries."
+    },
+    {
+      "name": "Mercedes Caracotche",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/mercedes_caracotche.jpg",
+      "role": "Enterprise Architect in Startia",
+      "circles": ["Value Delivery", "Strategic Evolution"],
+      "linkedin": "https://www.linkedin.com/in/mercedes-caracotche/",
+      "bioEsp": "Con más de 15 años de experiencia en TI, destaca como arquitecta empresarial certificada en TOGAF y Fractional CTO. A lo largo de su trayectoria, ha demostrado ser una líder natural en diversos entornos, desde equipos de ingeniería hasta otras disciplinas, facilitando la consecución de objetivos. Navegando los desafíos de un entorno VICA (Volatilidad, Incertidumbre, Complejidad y Ambigüedad), Mercedes ha exhibido una excepcional habilidad para abordar los retos inherentes.\nSu experiencia en tecnología y liderazgo ha contribuido a logros significativos en diversas organizaciones, demostrando agilidad en la adaptación a las demandas cambiantes.\nApasionada por la innovación, combina su profundo conocimiento en arquitectura empresarial con su certificación en TOGAF para impulsar el éxito en contextos dinámicos.",
+      "bioEng": "With over 15 years of IT experience, she is a certified TOGAF Enterprise Architect and Fractional CTO. Throughout her career, she has proven to be a natural leader in diverse environments, from engineering teams to other disciplines, facilitating the achievement of objectives. Navigating the challenges of a VUCA (Volatility, Uncertainty, Complexity and Ambiguity) environment, Mercedes has exhibited an exceptional ability to address the inherent challenges.\nHer technology and leadership experience has contributed to significant achievements in diverse organizations, demonstrating agility in adapting to changing demands.\nPassionate about innovation, she combines her deep knowledge in enterprise architecture with her TOGAF certification to drive success in dynamic contexts.\n"
+    },
+    {
+      "name": "Micaela Manias",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/micaela_manias.jpg",
+      "role": "Visual Brand Designer",
+      "circles": ["Branding"],
+      "linkedin": "https://www.linkedin.com/in/micaela-manias/",
+      "bioEsp": "Diseñadora Gráfica recibida de la Universidad de Buenos Aires (UBA) experta en crear y comunicar mediante lo estético, artístico y práctico. Como Visual Brand Designer, se encarga de cuidar y trasmitir la esencia de Ingenia, con experiencia en generación de identidad visual para empresas de distintas industrias y agencias de marketing digital.\nDiseñadora de mundos, de mensajes e ideas. Entusiasta del arte, curiosa por naturaleza.",
+      "bioEng": "Graphic Designer graduated from the University of Buenos Aires (UBA) expert in creating and communicating through aesthetics and artistic. As Visual Brand Designer, she is in charge of taking care and transmitting the essence of Ingenia, with experience in generating visual identity for companies in different industries and digital marketing agencies.\nDesigner of worlds, messages and ideas. Art enthusiast, curious by nature."
+    },
+    {
+      "name": "Natalia Castro",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/natalia_castro.jpg",
+      "role": "People Experience Expert",
+      "circles": ["People Experience & Technology"],
+      "linkedin": "https://www.linkedin.com/in/licnatalia-castro/",
+      "bioEsp": "Profesora y Licenciada en Psicopedagogía por la Universidad del Salvador (USAL), especializada en Coaching, Educación y Nuevas tecnologías, Agile Leadership y Transformación Digital.\nApasionada por acompañar a las personas y organizaciones en procesos de transformación desde una mirada del aprendizaje. La desafían los proyectos complejos, innovadores y ágiles en los que en equipo pueda desarrollar estrategias holísticas.\nSe ha desempeñado a nivel local y regional en organizaciones multinacionales, startups y en el Estado en proyectos de transformación digital, coordinación académica, consultoría, diseño y desarrollo de acciones de capacitación, e-learning y gestión de talentos.",
+      "bioEng": "Professor and Bachelor in Psychopedagogy from the University of Salvador (USAL), specialized in Coaching, Education and New Technologies, Agile Leadership and Digital Transformation.\nPassionate about accompanying people and organizations in transformation processes from a learning perspective. She is challenged by complex, innovative and agile projects in which she can develop holistic strategies as a team.\nShe has worked locally and regionally in multinational organizations, startups and in the State in digital transformation projects, academic coordination, consulting, design and development of training actions, e-learning and talent management."
+    },
+    {
+      "name": "Omar Gagliano",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/omar_gagliano.jpg",
+      "role": "Solution Architect in Startia",
+      "circles": ["Value Delivery", "Technical Direction"],
+      "linkedin": "https://www.linkedin.com/in/omar-gagliano-66148224/",
+      "bioEsp": "Experto en lenguajes de programacion y diseño de Arquitectura de soluciones, promoviendo el trabajo colaborativo. Recientemente se ha Certificado en Google Cloud Platform.\nOmar disfruta aprender temas técnicos siempre desde un enfoque práctico, como así de contagiar el buen humor en el entorno de trabajo.\nComo Solution Architect en Startia acompaña a los clientes en el desafío de comenzar a brindar acceso de sus APIs, en la creación de Sercivios de Integración y en en el uso de buenas prácticas y estandarización de formas de trabajo.\nA lo largo de su carrera, ha participado en diferentes proyectos referidos a Integraciones de Servicios a través de tecnologías Cloud Native.",
+      "bioEng": "Expert in programming languages and solution architecture design, promoting collaborative work. Recently he has been certified in Google Cloud Platform.\nOmar enjoys learning technical topics always from a practical approach, as well as spreading good humor in the work environment.\nAs a Solution Architect in Startia he accompanies clients in the challenge of starting to provide access to their APIs, in the creation of Integration Services and in the use of best practices and standardization of ways of working.\nThroughout his career, he has participated in different projects related to Service Integrations through Cloud Native technologies."
+    },
+    {
+      "name": "Pablo Lema",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/pablo_lema.jpg",
+      "role": "Growth Operations & Technology Expert",
+      "circles": ["Growth", "Value Delivery"],
+      "linkedin": "https://www.linkedin.com/in/pablo-gabriel-lema-9b1b154/",
+      "bioEsp": "Ingeniero de Sistemas de Información por la Universidad Tecnológica Nacional (UTN), especializado en Cloud, ciberseguridad y Gestión Agiles de proyectos.\nApasionado por colaborar en el crecimiento de las Organizaciones a través de la tecnología, procesos y metodología.\nComo Growth Operation and Tecnology Expert, es responsable de desarrollar propuestas de valor para necesidades actuales y futuras de nuestros clientes. Asegura la sustentabilidad económica y operativa, elaborar estrategias de up selling y cross selling. Además desarrolla relación de crecimiento con partners estratégicos.\nAmplia experiencia en puesto locales y regionales en empresas multinacionales, gobierno y Startup.",
+      "bioEng": "Information Systems Engineer from the National Technological University (UTN). Specialized in Cloud, cybersecurity and agile project management.\nPassionate about collaborating in the growth of organizations through technology, processes and methodology.\nAs Growth Operations & Technology Expert at Ingenia, he is responsible for developing value propositions for current and future needs of our clients. He ensures economic and operational sustainability, elaborates up-selling and cross-selling strategies. In addition, he develops growth relationships with strategic partners.\nPablo has extensive experience in local and regional positions in multinational companies, government and startups."
+    },
+    {
+      "name": "Pablo Mancini",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/pablo_mancini.jpg",
+      "role": "Enterprise Architect in Startia",
+      "circles": ["Value Delivery", "Strategic Evolution"],
+      "linkedin": "https://www.linkedin.com/in/pablo-guillermo-mancini/",
+      "bioEsp": "Analista de Sistemas egresado de la Universidad Tecnológica Nacional (UTN), con conocimientos claves en Arquitectura Empresarial bajo framework de TOGAF. Experiencia en diseños de interfaces API, Web Services, Gobierno de Arquitectura y más de 15 años en la industria bancaria.\nLe apasiona el camino de enseñar y acompañar a las empresas a trabajar en este nuevo formato de transformación digital.\nActualmente como Enterprise Architect en Startia colabora en organizaciones de la industria de Seguros y Medicina.\nDiseñador e implementador de Billeteras Virtuales, Arquitecto en cambio de procesadora de Tarjetas de Crédito.",
+      "bioEng": "Systems Analyst graduated from the National Technological University (UTN), with key knowledge in Enterprise Architecture under TOGAF framework. Experience in API interface designs, Web Services, Architecture Governance and more than 15 years in the banking industry.\nHe is passionate about the path of teaching and accompanying companies to work in this new format of digital transformation.\nCurrently as Enterprise Architect at Startia he collaborates with organizations in the Insurance and Medical industry.\nDesigner and implementer of Virtual Wallets, Architect in change of Credit Card processing."
+    },
+    {
+      "name": "Paula Ferreyra",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/paula_ferreyra.jpg",
+      "role": "Solution Architect in Startia",
+      "circles": ["Value Delivery", "Technical Direction"],
+      "linkedin": "https://www.linkedin.com/in/paula-ferreyra-4506a018/",
+      "bioEsp": "Ingeniera en Informática de la Universidad de Buenos Aires (UBA), con experiencia en el rubro gaming.\nPaula disfruta adquiriendo conocimientos sobre nuevas tecnologías de una forma práctica a través de la experiencia directa.\nComo Solution Architect en Startia acompaña a los clientes en el desafio de comenzar a brindar acceso de sus APIs a nivel global. Participa además en un assessments de arquitectura.\nEn lo que va de su carrera ha participado de proyectos de migración del sistema de autenticación y autorización.",
+      "bioEng": "Computer Engineer from the University of Buenos Aires (UBA), with experience in the gaming industry.\nPaula enjoys acquiring knowledge about new technologies in a practical way through direct experience.\nAs a Solution Architect at Startia she accompanies clients in the challenge of starting to provide access to their APIs globally. She also participates in architecture assessments.\nSo far in her career she has participated in authentication and authorization system migration projects."
+    },
+    {
+      "name": "Rodrigo Garay",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/rodrigo_garay.jpg",
+      "role": "Platform Engineer in Startia",
+      "circles": ["Value Delivery", "Technical Direction"],
+      "linkedin": "https://www.linkedin.com/in/rodrigo-garay-54559a91/",
+      "bioEsp": "Ingeniero de Plataformas, DevOps, SRE.\nExperto en gestión de infraestructura y automatización aplicando monitoreo, despliegue e integración continua.\nApasionado por la tecnología, enfocado en soluciones en la nube.\nComo Platform Engineer en Startia acompaña a los clientes en la implementación de nuevas tecnologías con foco en Paas.\nDurante sus casi veinte años de experiencia ha participado en el diseño, armado y actualización de Data Centers. Ha integrado soluciones on premise y cloud, manejando grandes infraestructuras con tecnologías de contenedores en Kubernetes, ayudando a las empresas a incorporar estas plataformas y culturas de trabajo.",
+      "bioEng": "Platform Engineer, DevOps, SRE.\nExpert in infrastructure management and automation applying monitoring, deployment and continuous integration.\nPassionate about technology, focused on cloud solutions.\nAs a Platform Engineer at Startia he accompanies customers in the implementation of new technologies with a focus on Paas.\nDuring his almost twenty years of experience he has participated in the design, assembly and upgrade of Data Centers. He has integrated on premise and cloud solutions, managing large infrastructures with container technologies in Kubernetes, helping companies to incorporate these platforms and work cultures."
+    },
+    {
+      "name": "Ruben Ghio",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/ruben_ghio.jpg",
+      "role": "Co-founder & Head of Value Delivery",
+      "circles": ["Value Delivery", "Controlling"],
+      "linkedin": "https://www.linkedin.com/in/rubenghio/",
+      "bioEsp": "Ingeniero en Sistemas de la Información por la Universidad Tecnológica Nacional (UTN-FRBA). Co-Founder & Head of Value Delivery en Ingenia.\nA lo largo de su carrera profesional ha tenido la oportunidad de participar en numerosas inciativas tanto en ámbitos privados como públicos implementando soluciones de altísimo impacto social.\nApasionado por la tecnología, entusiasta de los deportes y ocupado por el entorno humano logra conjugar un ambiente de satisfacción en el cual confluyen la familia, el trabajo y la diversión.",
+      "bioEng": "Information Systems Engineer from the National Technological University (UTN-FRBA). Co-Founder & Head of Value Delivery at Ingenia.\nThroughout his professional career he participated in numerous initiatives in both private and public spheres,  implementing solutions of high social impact.\nPassionate about technology, enthusiastic about sports and concerned about the human environment, he manages to combine an atmosphere of satisfaction in which family, work and fun converge."
+    },
+    {
+      "name": "Santiago Blanco",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/santiago_blanco.jpg",
+      "role": "Co-Founder -  Head of People & Technology",
+      "circles": ["People Experience & Technology"],
+      "linkedin": "https://www.linkedin.com/in/santiagomblanco/",
+      "bioEsp": "Ingeniero en Sistemas de la Información por la Universidad Tecnológica Nacional (UTN), con una Maestría en Gestión de Servicios Tecnológicos y Telecomunicaciones en la Universidad de San Andrés.\nApasionado por el aprendizaje continuo como mecanismo para la creación colaborativa de valor, creando puentes entre las personas desde el saber.\nSu rol como People Experience & Technology en Ingenia, implica estar a disposición para crear, todos los días, una organización con un ambiente donde todos puedan valorarse y ser valorados.\nMás de 20 años ayudando a organizaciones a establecer e implementar estrategias tecnológicas para asegurar la entrega de valor sostenible.\nCompartir el conocimiento es parte de la motivación de Santiago, desde la comunidad ARQCONF o como speaker / docente.",
+      "bioEng": "Information Systems Engineer from the National Technological University (UTN), with a Master's Degree in Management of Technological Services and Telecommunications at the University of San Andrés.\nPassionate about continuous learning as a mechanism for the collaborative creation of value, creating bridges between people through knowledge.\nAt Ingenia we are available every day to create an organization with an environment where we can all value ourselves and be valued.\nMore than 20 years helping organizations to establish and implement technological strategies to ensure the delivery of sustainable value.\nSharing knowledge is part of Santiago's motivation, from the ARQCONF community or as a speaker / teacher."
+    },
+    {
+      "name": "Silvana Villarruel",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/silvana_villarruel.jpg",
+      "role": "Enterprise Architect in Startia",
+      "circles": ["Value Delivery", "Strategic Evolution"],
+      "linkedin": "https://www.linkedin.com/in/silvana-beatriz-villarruel/",
+      "bioEsp": "Analista de Sistemas de Información por la Universidad Tecnológica Nacional, Facultad Regional de Córdoba (UTN-FRC).\nEspecialista en arquitectura empresarial y diseño de arquitecturas con lenguaje Archimate.\nSu pasión radica en evangelizar a las organizaciones en gobierno de arquitectura empresarial y el mundo de los datos aportando su conocimiento para impulsar la transformación digital comprometiéndose en lograr el éxito en cada proyecto en el que participa.\nComo Enterprise Architect en Startia acompaña a las organizaciones en su evolución digital en los distintos niveles de madurez de las mismas, aplicando modelos de referencia de industrias que correspondan.\nCon experiencia en arquitectura empresarial en la Industría Bancaria.",
+      "bioEng": "Information Systems Analyst from the National Technological University, Regional Faculty of Córdoba (UTN-FRC).\nSpecialist in enterprise architecture and architecture design with Archimate language.\nHer passion lies in evangelizing organizations in enterprise architecture governance and the world of data, contributing her knowledge to drive digital transformation and committing herself to achieve success in every project in which she participates.\nAs Enterprise Architect at Startia, she accompanies organizations in their digital evolution at different levels of maturity, applying industry reference models that correspond.\nWith experience in enterprise architecture in the Banking Industry."
+    },
+    {
+      "name": "Silvia Fresno",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/silvia_fresno.jpg",
+      "role": "Enterprise Architect in Startia",
+      "circles": ["Value Delivery", "Strategic Evolution"],
+      "linkedin": "https://www.linkedin.com/in/silvia-fresno/",
+      "bioEsp": "\nIngeniera en Sistemas de la Universidad Tecnológica Nacional (UTN) con un recorrido en empresas de consultoría, habilitando el valor del negocio mediante la creación de soluciones tecnológicas, resultado del trabajo en equipo y la experiencia y conocimiento adquiridos.\nApasionada por encontrar aspectos de mejora en cualquier proceso y solución, confía en que siempre la mejor manera es resolverlo en equipo. Silvia es una convencida de que lo que le da sustento a las tecnologías son las personas colaborando, por eso su principal motivación es facilitar el trabajo conjunto en pos de un objetivo común, para alcanzarlo de la manera más sencilla posible.\nAmante de los animales, sobre todo su perro Astor, le encanta distenderse porque le sirve para cargar energías para utilizar en los proyectos Ingenials. Silvia está siempre a disposición de quien necesite una mano.",
+      "bioEng": "Systems Engineer from the National Technological University (UTN) with a background in consulting companies, enabling business value through the creation of technology solutions resulting from teamwork and the experience and knowledge acquired.\nPassionate about finding aspects of improvement in any process and solution, she believes that the best way is always to solve it as a team. Silvia is convinced that what sustains technologies are people working together, that is why her main motivation is to facilitate joint work towards a common goal, to achieve it in the simplest way possible.\nAn animal lover, especially her dog Astor, she loves to relax because it helps her to recharge her energy to use in Ingenials projects. Silvia is always available to anyone who needs a hand."
+    },
+    {
+      "name": "Tomás Daureli",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/tom_s_daureli.jpg",
+      "role": "Backend Developer in Devify",
+      "circles": ["Value Delivery", "Software Delivery"],
+      "linkedin": "https://www.linkedin.com/in/tomasdaureli/",
+      "bioEsp": "Desarrollador de software con conocimientos en Java y Spring Boot, Python y Django, SQL.\nApasionado por solucionar cualquier problema que se presente, Tomás tiene facilidad para adaptarse a los diferentes contextos y aprender e innovar.\nComo Backend Developer en Devify actualmente construyendo tecnología backend en los proyectos de clientes.",
+      "bioEng": "Software developer with knowledge in Java and Spring Boot, Python and Django, SQL.\nPassionate about solving any problem that arises, Tomas has ease to adapt to different contexts and to learn and innovate.\nAs a Backend Developer at Devify he is currently building backend technology in client projects."
+    },
+    {
+      "name": "Wellington Pierre",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/wellington_pierre.jpg",
+      "role": "Platform Architect in Startia",
+      "circles": ["Value Delivery", "Technical Direction"],
+      "linkedin": "https://www.linkedin.com/in/wellingtonpierre/",
+      "bioEsp": "Ingeniero en sistemas de la Universidad Acción Pro Educación y Cultura (UNAPEC) de Santo Domingo, con experiencia en desarrollo de aplicaciones empresariales e infraestructura.\nEn su rol de Platform Architect en Startia, trabaja en la implementación de diferentes tecnologías, lo cual disfruta mucho porque envuelve un constante aprendizaje y superación de retos día a día.\nDurante toda su carrera, ha participado en el diseño y desarrollo de varias aplicaciones con bases de datos SQL de Microsoft, y ha implementado sistemas como SAP S4/Hana y Salesforce. Además, ha participado en la implementación de soluciones de seguridad y sistemas de autenticación y autorización como Okta y Keycloak.\nHa ocupado roles en el área de software, infraestructura y liderazgo de equipos en distintos tipos de empresas. En los últimos años ha evolucionado a servicios Cloud y a la consultoría. \nWellington se caracteriza por mantener un ritmo de aprendizaje rápido y continuo, logra adaptarse a los cambios con facilidad para sumarse y contribuir en equipos de trabajo de alto desempeño.",
+      "bioEng": "Systems Engineer from the Action for Education and Culture University (UNAPEC) in Santo Domingo, with experience in enterprise application development and infrastructure.\r\nIn his role as Platform Architect at Startia, he works in the implementation of different technologies, which he enjoys very much because it involves constant learning and overcoming challenges every day.\r\nThroughout his career, he has participated in the design and development of several applications with Microsoft SQL databases, and has implemented systems such as SAP S4/Hana and Salesforce. In addition, he has participated in the implementation of security solutions and authentication and authorization systems such as Okta and Keycloak.\r\nHe has held roles in software, infrastructure and team leadership in different types of companies. In recent years he has evolved to Cloud services and consulting. \r\nWellington is characterized by maintaining a fast and continuous learning pace, he is able to adapt to changes easily to join and contribute to high performance work teams."
+    },
+    {
+      "name": "Santiago Muscolo",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/santiago_muscolo.jpg",
+      "role": "Backend Developer in Devify",
+      "circles": ["Value Delivery", "Software Delivery"],
+      "linkedin": "",
+      "bioEsp": "En formacion activa en Tecnologías de front y back end.\nLe apasiona la implementación de nuevas herramientas y la optimización del código, con la finalidad de que sea lo más limpio e innovador posible.\nComo Full Stack developer se encarga de la producción, desarrollo y testeo de aplicaciones web siguiendo los lineamientos empresariales establecidos.\nApartir del diseño y construcción de aplicaciones desde la UI decidió pasarse al código trabajando en proyectos como el Experience Manager.",
+      "bioEng": "In active training in front and back end technologies.\nHe is passionate about implementing new tools and optimizing code to make it as clean and innovative as possible.\nAs a Full Stack developer he is responsible for the production, development and testing of web applications following established business guidelines.\nFrom designing and building applications from the UI he decided to move to code working on projects such as Experience Manager."
+    },
+    {
+      "name": "Matías Carazzo",
+      "image": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/meet_our_team/matias_carazzo.jpg",
+      "role": "Solution Architect in Startia",
+      "circles": ["Value Delivery", "Technical Direction"],
+      "linkedin": "",
+      "bioEsp": "Analista de sistemas por la UTN y gestor de proyectos Ágiles. Posee una diplomatura en Inteligencia Artificial.\nEs un apasionado por incorporar conocimiento y aplicarlo en soluciones tecnológicas de gran escala. Como Solution Architect en Ingenia es responsable de acompañar a los clientes en el desafío de implementar soluciones escalables, performantes y adaptadas a las exigencias del mercado. Cuenta con amplia experiencia liderando equipos de implementación cloud en distintas industrias, tales como IT, Finance y Streaming.Lo motiva ser un agente de cambio, acompañar y potenciar a sus pares en su experiencia profesional.",
+      "bioEng": "Systems Analyst from UTN and Agile project manager. He has a degree in Artificial Intelligence.\nHe is passionate about incorporating knowledge and applying it to large-scale technological solutions. As Solution Architect at Ingenia, he is responsible for accompanying clients in the challenge of implementing scalable, performing solutions adapted to market demands. He has extensive experience leading cloud implementation teams in different industries, such as IT, Finance and Streaming.\nHe is motivated by being an agent of change, accompanying and empowering his peers in their professional experience."
+    }
+  ]
+}

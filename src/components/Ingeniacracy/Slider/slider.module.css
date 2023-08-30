@@ -1,0 +1,28 @@
+.logo-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+.logo-slide {
+  display: flex;
+  animation: deslizar 40s linear infinite;
+  -webkit-animation: deslizar 40s linear infinite;
+}
+
+@keyframes deslizar {
+  0% {
+    transform: translateX(0%);
+  }
+
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.logo-content {
+  margin-right: 10px;
+}
+
+.text-content {
+  margin: 0;
+}

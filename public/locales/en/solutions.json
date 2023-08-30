@@ -1,0 +1,63 @@
+{
+  "startiaText": "Development and implementation of solutions designed to enable the necessary strategies for leading companies.",
+  "devifyText": "Software development that cover everything the company needs and can be resolved.",
+  "goELlevateText": "Industry-leading courses for tech professionals looking to enhance their skills. Customized in-company programs.Flexible trajectories according to each need.",
+
+  "startia": {
+    "startiaPhrase": "Architecture strategy for business, operations and people. The first and leading company that solves the most complex corporate challenges.",
+    "checkProducts": "CHECK OUR PRODUCTS",
+    "strategicEvolution": "We develop products aligned to company strategic evolution and design a roadmap to reach TO-BE stage.",
+    "apiProduct": "A sustainable, standard & scalable way of exposing business capabilities ensuring performance, resilience and simplicity.",
+    "cloudAdoption": "Let’s say the cloud is an option to move forward, but people & processes seem not to fit properly. Lack of maturity can lead to a failed adoption so building a proper improvement plan to mitigate risks is crucial.",
+    "dataDriven": "Take advantage of your data to make decisions appropriately & efficiently or even generate new products based on information.",
+    "devSecOps": "Adopt a technology-driven continuous delivery strategy which allows not only accelerating, but also evolving the business, without compromising quality.",
+    "digitalTransform": "To embrace new technologies or ideas requires understanding where you stand and what could be adapted based on the current knowledge & experience.",
+    "itStrategy": "Boost your business up while securing your existing capabilities by designing strategies focused on people, processes and technology.",
+    "orgFramework": "Assess, diagnose and evolve the organization operating model to embrace digital transformation successfully.",
+    "scaledAgile": "Design and adopt an operating model based on proven scaled Agile practices to ensure proper alignment & collaboration between teams in complex environments.",
+    "techDirection": "We design, develop, and help adopt technological solutions through expert and delivery focused teams in different areas",
+    "cloudNativeArchitecture": "Design solutions conceived from high availability, resiliency, scalability, and typically focused on observability, finops and separation of concerns.",
+    "cloudTuning": "Moving to cloud out of ignorance or rush to step over obsolescence translates into excessively-cost and difficult-to-maintain architectures, so it becomes imperative to optimize picking the right cloud services for the solution.",
+    "containerizingTheBusiness": "Redesign applications as decoupled and disposable components, typically packaged in containers, to bring flexibility, portability, agility and immutability.",
+    "continuousDelivery": "Standardize and automate the way the business functionalities are being delivered in the organization, from logical conception up to the deployment and potential extinction.",
+    "dataTuning": "Identify potential problems regarding your organization's data management processes without compromising the continuity of the business.",
+    "developerExperience": "Promote the adoption of standards in the software development cycle providing assets to related IT squads with unclear guidelines.",
+    "meshAdoption": "Establish a consistent and progressive adoption path for Mesh technologies within your organization.",
+    "securityModelIAM": "Design a robust & secured strategy to manage the identity of your organization user directory, including authentication and authorization mechanisms to grant access to those who should have.",
+    "srePractices": "Given the premise that “Service failure is inevitable”, systems should be built in a robust, scalable and easily-to-trace fashion, taking advantage of automation and enabling cross-team collaboration.",
+    "archAttack": "Specific needs require specific attention. We provide a team of experts dedicated to boost your business leaving obstacles behind."
+  },
+
+  "devify": {
+    "materializing": "Materializing your ideas into technological solutions for new digital business.",
+    "through": "Through our creativity and expertise, we ensure an outstanding quality in every initiative.",
+    "codeForIt": "Have you asked Startia® to define something for you? How about pushing it a bit far? Leave it to us, we can shape a solution with the expected quality.",
+    "deliverify": "Simplify the operational path and minimize entry costs. Bring your idea, we turn it into a mature and functional product in no time.",
+    "sqaas": "Adopting an agile mindset by “Going Tribal” presents challenges regarding lack of clarity and communication mainly because of the isolation & autonomy proposed by this model. We offer a multidisciplinary squad focused on agility & quality, to develop and deliver your business needs."
+  },
+
+  "inCompany": {
+    "goBack": "Go back",
+    "incompany": "In Company training",
+    "ourDriving": "Our driving force is the passion for doing IT well.",
+    "continuousTrain": "Continuous training focused on the needs of each company favors the achievement of objectives, both at an organizational and individual level. We increase productivity and encourage the achievement of objectives through knowledge empowerment and by bringing human resources closer to innovative tools and theoretical-practical perspectives that add value to their tasks.",
+    "weBelieve": "We believe that the most effective way to improve is through training and putting into practice what we have learned.",
+    "openCourses": "Open courses",
+    "coursesText": "The training courses available on our website can be taken by individuals and employees of interested companies.",
+    "customizedTrain": "Customized training",
+    "customizedText": "These are training courses offered only to the organization's employees. The virtual classes are live, which favors the development of topics and the relationship between experts and trainees.",
+    "whyGoelevate": "Why Go.Elevate",
+    "qualified": "Highly qualified experts",
+    "qualifiedText": "Academic and practical trajectory staff that guarantee their expertise in each subject.",
+    "liveClasses": "Live classes",
+    "liveText": "Online live sessions that are recorded.",
+    "exclusiveMaterial": "Exclusive material",
+    "materialText": "Variety of documents and general practical cases or adapted to the organization itself.",
+    "follow": "Follow-up of personal curriculum",
+    "followText": "Experts monitor students' performance class by class. They provide feedback and answer questions.",
+    "evaluations": "Evaluations and certifications",
+    "evaluationText": "Evaluations and certificates are given to those who complete and fulfill the course requirements of each training program.",
+    "getInfo": "Get more info",
+    "itMarket": "We believe that the IT market is evolving faster than formal IT education."
+  }
+}

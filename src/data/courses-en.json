@@ -1,0 +1,52 @@
+{
+  "courses": [
+    {
+      "name": "architecture",
+      "title": "Software Architecture",
+      "text": "An essential discipline you need to solve complex problems through technological solutions and make it sustainable over time.",
+      "img": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/architecture_4fa897ddf1.png"
+    },
+    {
+      "name": "k8s",
+      "title": "K8s for Architects",
+      "text": "Designed to provide Architects with the necessary tools to incorporate Cloud Native capabilities, focusing on the proper use of Kubernetes.",
+      "img": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/k8_0b1cff05a5.png"
+    },
+    {
+      "name": "api-product",
+      "title": "API as Product",
+      "text": "A training based on IT industry best practices, ensuring efficient solutions, scalability, consistency and simplicity of use by learning how to integrate every app and intern processes.",
+      "img": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/api_dca4e1d284.png"
+    },
+    {
+      "name": "product-manager",
+      "title": "Product Manager",
+      "text": "Incorporate technologies, methodologies and agile tools targeting the correct development and evolution of products, focusing on User Experience and data.",
+      "img": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/product_1b2a715598.png"
+    },
+    {
+      "name": "agile-coach",
+      "title": "Agile Coach",
+      "text": "Become a leader and learn the necessary tools to assume an integrated role, with a high degree of authority and organizational seniority.",
+      "img": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/agile_dcc9823c9b.png"
+    },
+    {
+      "name": "ops-to-devops",
+      "title": "De Ops a DevOps",
+      "text": "Acquire comprehensive training covering all programming concerns and including active participation in the E2E development and maintenance of IT solutions.",
+      "img": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/devops_70052a5694.png"
+    },
+    {
+      "name": "sre",
+      "title": "SRE (Site Reliability Engineering)",
+      "text": "Google's implementation for DevOps, and today more and more companies are driven by its framework. Become an expert on the subject.",
+      "img": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/sre_256ef39903.png"
+    },
+    {
+      "name": "blockchain",
+      "title": "Blockchain",
+      "text": "Understand Blockchain basics and decentralized applications (DApps), and how the data stored there is considered immutable.",
+      "img": "https://prod-ingenia-cms-upload-provider.s3.sa-east-1.amazonaws.com/blockchain_21e2294e1d.png"
+    }
+  ]
+}
